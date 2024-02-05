@@ -1,0 +1,46 @@
+/* //Weather Project
+Work Breakdown
+Overall Layout
+
+    Search History
+    Adds a button for each city you have searched
+Use local storage to persist the search history
+Key = Searched Citites 
+Value city1,city2,city2
+Todays Weather
+City Name
+Date
+Weather Icon
+Temp
+Wind
+Humidity
+5 Day Forecast (Five Boxes)
+Date
+Weather Icon
+Temp
+Wind
+Humidity
+Search for a City
+Respond to a button click
+Get the city name from the form input
+Store City name in a variable
+Build a request URL with the City Name and API key
+Invoke URL via the fetch() function
+Get Response store in a JSON object
+Persist City Name to the History list local storage
+Parse the JSON object for what you need to populate Todays Weather Box
+Use JQuery to update the City name, date, weather icon, temp, wind, humidity of the todays weather box
+For loop 0..4 (five days in total)
+Use Jqeury to create forecast box for day (I)
+Add date html
+Add icon html
+Add temp html
+Add wind html
+Add humidity haml
+Use jquery to set the values from JSON to
+Set date
+Set icon
+Set temp
+Set wind
+Set humidity
+Add forecast box to DOM */
