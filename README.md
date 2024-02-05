@@ -4,9 +4,9 @@
 Let people know what your project can do specifically. Provide context and add a link to any reference visitors might be unfamiliar with. A list of Features or a Background subsection can also be added here. If there are alternatives to your project, this is a good place to list differentiating factors.
 
 ## Visuals
-The following image shows the web application's appearance. You can also go to the web application by clicking the following link. https://chelleyoungw.github.io/ //add reponame here
+The following image shows the web application's appearance. You can also go to the web application by clicking the following link. https://chelleyoungw.github.io/5-day-weather-forecast/
 
-![The Weather Forecast includes **DESCRIBE HOW THE PAGE LOOKS**.](./assets/**ADD PIC TEXT HERE**.png)
+![The Weather Forecast includes **DESCRIBE HOW THE PAGE LOOKS**.](./assets/images/**ADD PIC TEXT HERE**.png)
 
 ## Usage
 Use examples liberally, and show the expected output if you can. It's helpful to have inline the smallest example of usage that you can demonstrate, while providing links to more sophisticated examples if they are too long to reasonably include in the README.
