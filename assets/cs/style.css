@@ -1,9 +1,5 @@
 /* //Weather Project
-Work Breakdown
-Overall Layout
 
-    Search History
-    Adds a button for each city you have searched
 Use local storage to persist the search history
 Key = Searched Citites 
 Value city1,city2,city2
@@ -43,4 +39,7 @@ Set icon
 Set temp
 Set wind
 Set humidity
-Add forecast box to DOM */
+Add forecast box to DOM 
+remove bullet points from search history
+
+*/
