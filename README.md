@@ -6,7 +6,7 @@ This application allows you to search a city and get a 5 day weather forecast. Y
 ## Visuals
 The following image shows the web application's appearance. You can also go to the web application by clicking the following link. https://chelleyoungw.github.io/5-day-weather-forecast/
 
-![The Weather Forecast includes form window to input the city name you want to search, search button, today's weather object, city search history, and 5 objects for the next 5 days of weather.](./assets/images/**ADD PIC TEXT HERE**.png)
+![The Weather Forecast includes form window to input the city name you want to search, search button, today's weather object, city search history, and 5 objects for the next 5 days of weather.](./assets/images/5-day-weather-forecast-screenshot.png)
 
 ## Usage
 Type in the city you would like to know the 5 day forecast for. Hit enter on the keyboard or click the search button. Today'
